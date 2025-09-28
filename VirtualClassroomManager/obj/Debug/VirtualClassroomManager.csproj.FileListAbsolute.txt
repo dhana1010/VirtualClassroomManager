@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\VirtualClassroomManager\VirtualClassroomManager\bin\Debug\VirtualClassroomManager.exe.config
+C:\Users\admin\source\repos\VirtualClassroomManager\VirtualClassroomManager\bin\Debug\VirtualClassroomManager.exe
+C:\Users\admin\source\repos\VirtualClassroomManager\VirtualClassroomManager\bin\Debug\VirtualClassroomManager.pdb
+C:\Users\admin\source\repos\VirtualClassroomManager\VirtualClassroomManager\obj\Debug\VirtualClassroomManager.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\VirtualClassroomManager\VirtualClassroomManager\obj\Debug\VirtualClassroomManager.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\VirtualClassroomManager\VirtualClassroomManager\obj\Debug\VirtualClassroomManager.exe
+C:\Users\admin\source\repos\VirtualClassroomManager\VirtualClassroomManager\obj\Debug\VirtualClassroomManager.pdb
